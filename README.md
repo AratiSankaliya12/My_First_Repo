@@ -2,5 +2,5 @@
 
 This is My First Git Repository.
 <br>
-Author - Arati Sankaliya
+Author - "Arati Sankaliya"
 
